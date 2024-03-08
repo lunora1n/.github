@@ -1,2 +1,2 @@
 # .github
-![logo](image-Photoroom.png-Photoroom.png)
+![logo](image.png)
